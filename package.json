@@ -1,0 +1,16 @@
+{
+  "name": "focha-test",
+  "version": "1.0.0",
+  "description": "Test / demo project for focha",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "focha spec.js && focha --all spec.js"
+  },
+  "keywords": [],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "focha": "^1.0.2"
+  }
+}
