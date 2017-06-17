@@ -11,6 +11,6 @@
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "focha": "^1.0.2"
+    "focha": "^1.1.0"
   }
 }

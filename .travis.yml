@@ -6,6 +6,9 @@ notifications:
   email: false
 node_js:
   - '8'
+cache:
+  directories:
+    - .focha
 branches:
   except:
     - /^v\d+\.\d+\.\d+$/
