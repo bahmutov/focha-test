@@ -4,7 +4,7 @@
 
 const passes = () => {}
 const fails = () => {
-  throw new Error('no')
+  throw new Error('no again')
 }
 describe('outer', () => {
   describe('inner', () => {
