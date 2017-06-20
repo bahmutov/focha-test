@@ -4,9 +4,8 @@
 
 const passes = () => {}
 const fails = () => {
-  // throw new Error('no')
+  throw new Error('no')
 }
-
 describe('outer', () => {
   describe('inner', () => {
     it('A', passes)
