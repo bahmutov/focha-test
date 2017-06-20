@@ -11,6 +11,6 @@ describe('outer', () => {
     it('A', passes)
     it('B', passes)
     it('C', passes)
-    it('D', fails)
+    it('D', passes)
   })
 })
